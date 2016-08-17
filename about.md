@@ -7,20 +7,19 @@ header-img: "img/green.jpg"
 
 
 <center>
-    <p><img src="http://7xlfkx.com1.z0.glb.clouddn.com/white2.jpg" align="center"></p>
+    <p><img src="http://www.petsworld.in/blog/wp-content/uploads/2014/07/kitten-with-puppy.jpg" align="center"></p>
 </center>
 
-我是顾明明，我喜欢写代码。
+Coding feeds my needs, coding makes boss happy， coding delivers you love. 
 
-现在研习 **认知写作学** 。
+现在研习 **html/python** 。
 
 ###坚信
 
 
-- 元认知乃一切之源
-- 学苟知本，六经皆我注脚 
-- 一切技能皆可习得，包括写作
-- 「持续」并不是坚持，写就是最好的回报
+- 生活是二分耕耘一分收获，再一分享受
+- 相互扶持，坚定前行
+- 不逃避责任才是成熟
 
 
 ###关注：
