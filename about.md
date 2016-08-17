@@ -10,7 +10,7 @@ header-img: "img/green.jpg"
     <p><img src="http://www.petsworld.in/blog/wp-content/uploads/2014/07/kitten-with-puppy.jpg" align="center"></p>
 </center>
 
-Coding feeds my needs, coding makes boss happy， coding delivers you love. 
+Coding feeds my needs, coding makes boss happy，coding delivers you my love. 
 
 现在研习 **html/python** 。
 
