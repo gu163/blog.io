@@ -7,7 +7,7 @@ header-img: "img/zhihu.jpg"
 
 
 <center>
-    <p><img src="https://en.wikipedia.org/wiki/Garden#/media/File:Rikugien3.jpg" align="center"></p>
+    <p><img src="http://feelgrafix.com/data_images/out/15/895349-stone-wallpaper.jpg" align="center"></p>
 </center>
 
 
