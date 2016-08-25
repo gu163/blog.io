@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Title X"
-description: "Intermediate Heat Transfer "
+title: "作者介绍"
+description: " 一只不开窍的拉曼光谱分析师程序猿改行做瓜农 "
 header-img: "img/green.jpg"
 ---
 
