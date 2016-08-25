@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "彩蛋"
-description: "那就写个彩蛋玩玩"  
+description: "彩蛋吗那就作为开拓区，三角猫程序猿的网页还是要好好改造"  
 header-img: "img/semantic.jpg"  
 ---
 
