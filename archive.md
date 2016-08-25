@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Colume 2"
-description: "Non-linear Optics"
+title: "Photo Wall"
+description: "照片墙貌似好难做，啊，要努力做献给我可爱的小公主"
 header-img: "img/orange.jpg"
 ---
 
