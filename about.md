@@ -27,15 +27,15 @@ header-img: "img/green.jpg"
 
 
 
-###联系
+###如何联系我
 gu163@purdue.edu
-zju.mingming.gu@hotmail.com
-心电感应  ：）
+
+心灵感应 
 
 
 
 <center>
-    <p><img src="http://i173.photobucket.com/albums/w63/cnfeat/2015-08-29-2_zpsqj7po8eo.png" align="center"></p>
+    <p><img src="http://pic1.win4000.com/wallpaper/2/539fdbbccdb74.jpg" align="center"></p>
 </center>
 
 
