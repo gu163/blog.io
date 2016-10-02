@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "化肥"
-description: "那么，就生活中的点点滴滴变作有机肥料吧"
+title: "文章"
+description: "留着以后慢慢写"
 header-img: "img/zhihu.jpg"
 ---
 
