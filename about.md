@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "作者介绍"
-description: " 一只不开窍的拉曼光谱分析师程序猿改行做瓜农 "
+description: " 不会写python的拉曼光谱学家不是好瓜农"
 header-img: "img/green.jpg"
 ---
 
@@ -10,35 +10,27 @@ header-img: "img/green.jpg"
     <p><img src="http://www.petsworld.in/blog/wp-content/uploads/2014/07/kitten-with-puppy.jpg" align="center"></p>
 </center>
 
-Coding feeds my needs, coding makes boss happy，coding delivers you my love. 
+吾日三省吾身 几点吃饭，啥时候写weeklyreport，我女儿名字取啥. 
 
 现在研习 **html/python** 。
 
 
 
-- 做好每件事，不拖沓，不分心
-- 相互扶持，坚定前行
-- 不逃避责任才是成熟
-
-
-- nannan
-- 写作
-- Python
-
-
+- 不拖沓
+- 不气馁
+- 不逃避
 
 
 ###代表作：
+还在努力憋paper
 
-
-
-
-###我的朋友们
 
 
 
 ###联系
-
+gu163@purdue.edu
+zju.mingming.gu@hotmail.com
+心电感应  ：）
 
 
 
